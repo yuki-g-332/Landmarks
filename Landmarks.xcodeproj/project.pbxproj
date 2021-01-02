@@ -33,6 +33,7 @@
 		85F03E0B259F6B6F00FF67CE /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F03E0A259F6B6F00FF67CE /* Data.swift */; };
 		85F03E13259F6D3A00FF67CE /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F03E12259F6D3A00FF67CE /* LandmarkRow.swift */; };
 		85F03E18259F6DD800FF67CE /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F03E17259F6DD800FF67CE /* LandmarkList.swift */; };
+		85F03E2625A0104300FF67CE /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85F03E2525A0104300FF67CE /* UserData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +86,7 @@
 		85F03E0A259F6B6F00FF67CE /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		85F03E12259F6D3A00FF67CE /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		85F03E17259F6DD800FF67CE /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		85F03E2525A0104300FF67CE /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,6 +204,7 @@
 			children = (
 				85F03E02259F6ACE00FF67CE /* Landmark.swift */,
 				85F03E0A259F6B6F00FF67CE /* Data.swift */,
+				85F03E2525A0104300FF67CE /* UserData.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -352,6 +355,7 @@
 				856D460B259F07BD009BFB61 /* LandmarkDetail.swift in Sources */,
 				85F03E0B259F6B6F00FF67CE /* Data.swift in Sources */,
 				856D463C259F0855009BFB61 /* CircleImage.swift in Sources */,
+				85F03E2625A0104300FF67CE /* UserData.swift in Sources */,
 				85F03E18259F6DD800FF67CE /* LandmarkList.swift in Sources */,
 				856D4637259F0818009BFB61 /* MapView.swift in Sources */,
 				856D4609259F07BD009BFB61 /* LandmarksApp.swift in Sources */,
